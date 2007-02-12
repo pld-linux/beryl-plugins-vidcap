@@ -1,5 +1,5 @@
 Summary:	Beryl vidcap plugin
-Summary(pl.UTF-8):   Wtyczka vidcap dla beryla
+Summary(pl.UTF-8):	Wtyczka vidcap dla beryla
 Name:		beryl-plugins-vidcap
 Version:	0.1.9999.1
 Release:	1
