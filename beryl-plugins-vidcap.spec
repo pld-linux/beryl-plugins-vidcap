@@ -1,12 +1,12 @@
 Summary:	Beryl vidcap plugin
 Summary(pl.UTF-8):	Wtyczka vidcap dla beryla
 Name:		beryl-plugins-vidcap
-Version:	0.1.9999.1
+Version:	0.1.9999.2
 Release:	1
 License:	GPL-like
 Group:		X11
 Source0:	http://releases.beryl-project.org/%{version}/%{name}-%{version}.tar.bz2
-# Source0-md5:	b12fc4c7e8d338e2ae771da937e216e2
+# Source0-md5:	f4aa0c74d86baa61fc372082b0109733
 URL:		http://beryl-project.org/
 BuildRequires:	OpenGL-devel
 BuildRequires:	beryl-core-devel >= 1:%{version}
